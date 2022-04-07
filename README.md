@@ -3,6 +3,7 @@
 - ⚡ Adoro tecnologia e criar coisas
 - 🔭 Atualmente estudando Front-end
 - 😄 Sendo 1% melhor a cada dia
+- 💡 Sempre atualizando com novas ideias
 
 <div align="center">
   <a href="https://github.com/Luan400">
