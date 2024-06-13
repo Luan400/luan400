@@ -1,7 +1,7 @@
 ### Olá, tranquilo? Meu Nome é Luan Bortoleto 👋
 
 - ⚡ Adoro tecnologia e criar coisas
-- 🔭 Atualmente estudando para ser Full-Stack
+- 🔭 Desenvolvedor Full-Stack
 - 😄 Sendo 1% melhor a cada dia
 - 💡 Sempre atualizando com novas ideias
 
