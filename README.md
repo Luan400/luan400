@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Luan400">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luan400&show_icons=true&theme=gotham/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luan400&show_icons=true&theme=gotham"/>
 
 </div>
 
