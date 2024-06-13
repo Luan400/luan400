@@ -7,9 +7,24 @@
 
 <div align="center">
   <a href="https://github.com/Luan400">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Luan400&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luan400&show_icons=true&theme=gotham/>
   <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan400&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+    <!-- Portfolio -->
+## Portfolio:
+- [C# - DevFreela](https://github.com/luan400/API-DevFreela)
+- [React - Quiz React](https://github.com/luan400/Quiz-React)
+- [JS - One Piece Memory Game](https://github.com/VariableBee/AWS_Athena_Queries)
+
+
+<p align="left">
+  <img align="center" src="https://github.com/luan400/luan400/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+
+
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luan-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -18,6 +33,18 @@
  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
+
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/VScode/VScode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
+  </div>
+
   
   ##
   
