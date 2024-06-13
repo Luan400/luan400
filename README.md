@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Luan400">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=luan400&show_icons=true&theme=gotham/>
-  <img height="180em" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan400&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
 
@@ -38,10 +38,10 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
+   <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
+    <img align="center" alt="visual-studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
   </div>
 
   
