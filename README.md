@@ -16,7 +16,7 @@
 ## Portfolio:
 - [C# - DevFreela](https://github.com/luan400/API-DevFreela)
 - [React - Quiz React](https://github.com/luan400/Quiz-React)
-- [JS - One Piece Memory Game](https://github.com/VariableBee/AWS_Athena_Queries)
+- [JS - One Piece Memory Game](https://github.com/luan400/One-Piece-MemoryGame)
 
 
 <p align="left">
