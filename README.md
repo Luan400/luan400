@@ -14,7 +14,9 @@
 
    
 ## Portfolio:
-- [C# - DevFreela](https://github.com/luan400/API-DevFreela)
+
+- [C#, .NET core, ASP.NET core](https://github.com/luan400/API-DevFreela)
+- [C#, .NET core, ASP.NET core - DevFreela](https://github.com/luan400/API-DevFreela-Payments)
 - [React - Quiz React](https://github.com/luan400/Quiz-React)
 - [JS - One Piece Memory Game](https://github.com/luan400/One-Piece-MemoryGame)
 
