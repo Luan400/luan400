@@ -1,9 +1,9 @@
-### Olá, tranquilo? Meu Nome é Luan Bortoleto 👋
+### Hello, okay? My name is Luan Bortoleto 👋
 
-- ⚡ Adoro tecnologia e criar coisas
-- 🔭 Desenvolvedor Full Stack Jr
-- 😄 Sendo 1% melhor a cada dia
-- 💡 Sempre atualizando com novas ideias
+- ⚡ I love technology and creating things
+- 🔭 Full Stack Developer
+- 😄 Being 1% better every day
+- 💡 Always updating with new ideas
 
 <div align="center">
   <a href="https://github.com/Luan400">
@@ -15,10 +15,10 @@
    
 ## Portfolio:
 
-- [C#, .NET core, ASP.NET core - DevFreela](https://github.com/luan400/API-DevFreela)
+- [C#, .NET core, ASP.NET core - DevFreela.API](https://github.com/luan400/API-DevFreela)
 - [C#, .NET core, ASP.NET core - DevFreela Payments](https://github.com/luan400/API-DevFreela-Payments)
-- [React - Quiz React](https://github.com/luan400/Quiz-React)
-- [JS - One Piece Memory Game](https://github.com/luan400/One-Piece-MemoryGame)
+- [C#, .NET core, ASP.NET core - BookManager.API](https://github.com/Luan400/BookManager.API)
+- [C#, .NET core, ASP.NET core - DoeSange.API](https://github.com/Luan400/DoeSangue.API)
 
 
 <p align="left">
