@@ -15,8 +15,8 @@
    
 ## Portfolio:
 
-- [C#, .NET core, ASP.NET core - DoeSange.API](https://github.com/Luan400/WebApiCadastroFunc.API)
-- [C#, .NET core, ASP.NET core, Razor Pages - BookManager.API](https://github.com/Luan400/CrudCadastroUsuario)
+- [C#, .NET core, ASP.NET core - WebApiCadastroFuncionario.API](https://github.com/Luan400/WebApiCadastroFuncionario.API)
+- [C#, .NET core, ASP.NET core, Razor Pages - CrudCadastroUsuario.API](https://github.com/Luan400/CrudCadastroUsuario)
 - [C#, .NET core, ASP.NET core - DevFreela.API](https://github.com/luan400/API-DevFreela)
 - [C#, .NET core, ASP.NET core - DevFreela Payments](https://github.com/luan400/API-DevFreela-Payments)
 
